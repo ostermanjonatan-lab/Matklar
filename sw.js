@@ -1,4 +1,4 @@
-const CACHE_NAME = 'matklar-v2';
+const CACHE_NAME = 'matklar-v3';
 const PRECACHE_ASSETS = [
   '/',
   '/index.html',
